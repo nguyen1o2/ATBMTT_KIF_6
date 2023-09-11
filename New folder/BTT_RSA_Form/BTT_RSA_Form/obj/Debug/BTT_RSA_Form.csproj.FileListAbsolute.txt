@@ -1,0 +1,20 @@
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\bin\Debug\BTT_RSA_Form.exe.config
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\bin\Debug\BTT_RSA_Form.exe
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\bin\Debug\BTT_RSA_Form.pdb
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.csproj.AssemblyReference.cache
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.Form1.resources
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.Properties.Resources.resources
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.csproj.GenerateResource.cache
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.csproj.CoreCompileInputs.cache
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.exe
+D:\ATBMTT\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.pdb
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\bin\Debug\BTT_RSA_Form.exe.config
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\bin\Debug\BTT_RSA_Form.exe
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\bin\Debug\BTT_RSA_Form.pdb
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.csproj.AssemblyReference.cache
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.Form1.resources
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.Properties.Resources.resources
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.csproj.GenerateResource.cache
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.csproj.CoreCompileInputs.cache
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.exe
+D:\Kì 6\MON AN TOAN VA BAO MAT THONG TIN\New folder\BTT_RSA_Form\BTT_RSA_Form\obj\Debug\BTT_RSA_Form.pdb

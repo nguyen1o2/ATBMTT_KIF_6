@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAMFXbLx0GNQfTXCdL3V+BNCvdgoG6lzqb2btG7diB1Ywhta3nJNUKRR2CVTmYX011pCaRc+agl/jxFuJMbzlQ==",
+  "success": true,
+  "projectFilePath": "D:\\Kì 6\\MON AN TOAN VA BAO MAT THONG TIN\\Nhom5_NguyenThanhDuong_2019605419\\MahoaRSA\\MahoaRSA\\MahoaRSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OS\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\bouncycastle.netcore\\1.8.10\\bouncycastle.netcore.1.8.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+D:\Data\RSA\RSA\RSA\bin\Release\net6.0-windows\RSA.exe
+D:\Data\RSA\RSA\RSA\bin\Release\net6.0-windows\RSA.deps.json
+D:\Data\RSA\RSA\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+D:\Data\RSA\RSA\RSA\bin\Release\net6.0-windows\RSA.dll
+D:\Data\RSA\RSA\RSA\bin\Release\net6.0-windows\RSA.pdb
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.dll
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.pdb
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+D:\Data\RSA\RSA\RSA\obj\Release\net6.0-windows\ref\RSA.dll
+D:\Data\RSA\RSA\bin\Release\net6.0-windows\RSA.exe
+D:\Data\RSA\RSA\bin\Release\net6.0-windows\RSA.deps.json
+D:\Data\RSA\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+D:\Data\RSA\RSA\bin\Release\net6.0-windows\RSA.dll
+D:\Data\RSA\RSA\bin\Release\net6.0-windows\RSA.pdb
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.dll
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.pdb
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\ref\RSA.dll
+D:\RSA\RSA\bin\Release\net6.0-windows\RSA.exe
+D:\RSA\RSA\bin\Release\net6.0-windows\RSA.deps.json
+D:\RSA\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+D:\RSA\RSA\bin\Release\net6.0-windows\RSA.dll
+D:\RSA\RSA\bin\Release\net6.0-windows\RSA.pdb
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.dll
+D:\RSA\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.pdb
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+D:\RSA\RSA\obj\Release\net6.0-windows\ref\RSA.dll
+D:\RSA\RSA\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.ResolveComReference.cache
+D:\RSA\RSA\obj\Release\net6.0-windows\RSA.Properties.Resources.resources
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\bin\Release\net6.0-windows\RSA.exe
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\bin\Release\net6.0-windows\RSA.deps.json
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\bin\Release\net6.0-windows\RSA.dll
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\bin\Release\net6.0-windows\RSA.pdb
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.ResolveComReference.cache
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.Properties.Resources.resources
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.dll
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.pdb
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+C:\Users\Ace\Desktop\ATBMTT\RSA\RSA\obj\Release\net6.0-windows\ref\RSA.dll
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.csproj.ResolveComReference.cache
+D:\Data\RSA\RSA\obj\Release\net6.0-windows\RSA.Properties.Resources.resources
+C:\Users\Ace\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.exe
+C:\Users\Ace\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.deps.json
+C:\Users\Ace\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+C:\Users\Ace\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.dll
+C:\Users\Ace\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.pdb
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.ResolveComReference.cache
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Properties.Resources.resources
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.dll
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.pdb
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+C:\Users\Ace\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\ref\RSA.dll
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.exe
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.deps.json
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.dll
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.pdb
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.ResolveComReference.cache
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Properties.Resources.resources
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.dll
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.pdb
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+D:\[Study]\An toan bao mat thong tin\Xin\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\ref\RSA.dll
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.exe
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.deps.json
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.dll
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.pdb
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.ResolveComReference.cache
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Properties.Resources.resources
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.dll
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.pdb
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+D:\[Study]\An toan bao mat thong tin\Some thing can help you study\test\RSA_C#\RSA_C#\RSA\obj\Release\net6.0-windows\ref\RSA.dll
+D:\unity\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.exe
+D:\unity\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.deps.json
+D:\unity\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+D:\unity\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.dll
+D:\unity\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.pdb
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.ResolveComReference.cache
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Properties.Resources.resources
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.dll
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.pdb
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+D:\unity\RSA_C#\RSA\obj\Release\net6.0-windows\ref\RSA.dll
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.exe
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.deps.json
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.runtimeconfig.json
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.dll
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\bin\Release\net6.0-windows\RSA.pdb
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.AssemblyReference.cache
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.ResolveComReference.cache
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Form1.resources
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.Properties.Resources.resources
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.GenerateResource.cache
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfoInputs.cache
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.AssemblyInfo.cs
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.csproj.CoreCompileInputs.cache
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.dll
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\refint\RSA.dll
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.pdb
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\RSA.genruntimeconfig.cache
+C:\Users\Lê Kim Thành\Desktop\RSA_C#\RSA\obj\Release\net6.0-windows\ref\RSA.dll
